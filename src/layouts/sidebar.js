@@ -4,7 +4,7 @@ export default function Sidebar() {
   return (
     <>
       <aside>
-        <p className='text-center'>Sidebar</p>
+        <p className='text-center mb-0 text-white'>Sidebar</p>
       </aside>
 
     </>

@@ -14,6 +14,11 @@ aside{
     position: fixed;
     left: 0%;
     top: 0%;
+    Display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #2d5ba0;
+
 }
 
 .Outlet-Main{
@@ -31,13 +36,18 @@ header{
     background: #fff;
     width: 100%;
     box-shadow: 0 1px 0px 0 rgba(0, 0, 0, .2);
+    Display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #2d5ba0;
+    border-left: 1px solid #fff
 }
 
 table ,td,th{
     border:1px solid grey !important;
 }
 .sm-Input{
-    width: 40px !important;
+    width: 100% !important;
 }
 .custom-container{
     padding: 0px 10px;
